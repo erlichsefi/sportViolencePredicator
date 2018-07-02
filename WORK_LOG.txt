@@ -1,0 +1,1 @@
+1. assume the student didn't not forget to write an events, each game without events is consider to be in class 0
